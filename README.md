@@ -1,2 +1,2 @@
 # developher-test-app
-Test app for LinkedIn DevelopHer Hackathon
+Test app for LinkedIn Login LinkedIn DevelopHer Hackathon
